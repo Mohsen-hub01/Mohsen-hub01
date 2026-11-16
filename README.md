@@ -20,7 +20,7 @@ Open to France, Europe, Morocco and the UAE · [LinkedIn](https://www.linkedin.c
 - **[IdentityShield AI](https://github.com/Mohsen-hub01/identityshield-ai)** — Explainable identity-security platform: ML + SHAP, RAG assistant, LangGraph / MCP agents with human review. *52 tests passed, 5/5 agent scenarios.*
 - **[Enterprise Text-to-SQL](https://github.com/Mohsen-hub01/enterprise-text2sql)** — Ask questions in plain language, get safe SQL: read-only access, SQL guardrails, automated evaluation and CI/CD.
 - **[Threat Hunter](https://github.com/Mohsen-hub01/threat-hunter)** — Multi-agent cyberattack investigation mapped to MITRE ATT&CK, ending with an incident report.
-- **[SimCLR vs BYOL](https://github.com/Mohsen-hub01/Self-Supervised-Learing)** — Self-supervised learning from scratch on CIFAR-10. *83 % linear-evaluation accuracy, no labels.*
+- **[SimCLR vs BYOL](https://github.com/Mohsen-hub01/Self-Supervised-Learing)** (team project) — Self-supervised learning from scratch on CIFAR-10. *83 % linear-evaluation accuracy, no labels.*
 - **MarketMind** — Predicts the commercial potential of a location with geospatial ML and 4 LangGraph agents. *R² = 0.974.*
 
 ### Tech stack
